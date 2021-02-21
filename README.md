@@ -1,8 +1,8 @@
 Welcome to the Github for Learn2Earn!
 
-_This project was submitted to the Steel Hacks 2021 hackathon on 2/19-21/21_
+- This project was submitted to the Steel Hacks 2021 hackathon on 2/19-21/21
 
-*WE WON THE VIDEO GAME CATEGORY!!!*
+- *WE WON THE VIDEO GAME CATEGORY!!!*
 
 link the app on Glide: https://gnarly-vacation-1447.glideapp.io/ 
 
