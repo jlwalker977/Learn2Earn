@@ -4,6 +4,8 @@ link the app on Glide: https://gnarly-vacation-1447.glideapp.io/
 
 Final video submitted for the project: https://youtu.be/vjbzfgJZIOs 
 
+Devpost project link: https://devpost.com/software/learn2earn 
+
 contains the app Learn2Earn
 
 
