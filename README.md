@@ -1,4 +1,4 @@
-some stuff goes here
+Welcome to the Github for Learn2Earn!
 
 link the app on Glide: https://gnarly-vacation-1447.glideapp.io/ 
 
