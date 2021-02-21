@@ -8,9 +8,7 @@ Devpost project link: https://devpost.com/software/learn2earn
 
 Learn2Earn: Using Crowd-funding to learn more about the stock market and grow your investments!
 
-!(learn2earn_ppt/Learn2Earn Title Page.png)
-
-contains the app Learn2Earn
+- contains the app Learn2Earn
 
 
 (Previous versions of the presentation of the app are included below)
