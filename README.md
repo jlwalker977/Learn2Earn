@@ -6,6 +6,10 @@ Final video submitted for the project: https://youtu.be/vjbzfgJZIOs
 
 Devpost project link: https://devpost.com/software/learn2earn 
 
+Learn2Earn: Using Crowd-funding to learn more about the stock market and grow your investments!
+
+![alt text](https://github.com/jlwalker977/Learn2Earn/main/learn2earn_ppt/Learn2Earn Title Page.png?raw=true)
+
 contains the app Learn2Earn
 
 
